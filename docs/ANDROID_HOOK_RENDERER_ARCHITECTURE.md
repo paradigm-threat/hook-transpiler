@@ -1,7 +1,7 @@
 # HookRenderer Architecture & Flow
 
 ## Overview
-`HookRenderer` is a native Android component that bridges JavaScript/JSX code execution with native Android view rendering. It supports two rendering backends: **Act** (CleverTree's library) and **Android Native**, allowing users to choose which framework best suits their needs.
+`HookRenderer` is a native Android component that bridges JavaScript/JSX code execution with native Android view rendering. It supports two rendering backends: **Act** (Clevertree's library) and **Android Native**, allowing users to choose which framework best suits their needs.
 
 ## High-Level Flow
 
